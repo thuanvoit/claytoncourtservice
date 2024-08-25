@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "Clayton Court Case Search",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
