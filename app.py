@@ -1,6 +1,5 @@
-import json
-from flask import Flask, jsonify, request
-from .helper import case_searcher
+from flask import Flask, jsonify
+from helper import case_searcher
 
 app = Flask(__name__)
 
